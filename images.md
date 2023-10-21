@@ -14,4 +14,15 @@ https://www.flyingcircusairshow.com/images/fca-air.gif
 
 https://i.gifer.com/VJ1.gif
 
-![Alt text](1997805.png)
+![Alt text](1997805.png)![Alt text](fca-air.gif)![Alt text](giphy.gif)
+
+![Alt text](welcome2.gif)![Alt text](image-removebg-preview.png)
+
+https://www.simpleimageresizer.com/_uploads/photos/a780b53e/image-removebg-preview_32x35.png
+
+![Alt text](image-removebg-preview_2_119x128.webp)
+
+![Alt text](simple-sunny-day-cloud-image-realistic-cloud-on-a-transparent-background-cloud-on-the-sky-free-png.webp)
+
+[Alt text](giphy.gif)!
+[Alt text](giphy.gif)

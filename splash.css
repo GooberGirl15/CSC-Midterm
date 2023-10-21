@@ -1,25 +1,60 @@
+body{
+    cursor: url("imgaes/plane-cursor-bg.webp"), pointer;
+    overflow: hidden;
+}
 .splash{
-    cursor: pointer;
     position: fixed;
     top: 50%;
-    left 50%;
-    height: 95%;
-    width: 95%;
+    left: 50%;
+    height: 100%;
+    width: 100%;
     transform: translate(-50%,-50%);
-    background-color: #afbfc0;
+    background-image:url("imgaes/airshow-splash.gif");
+    background-repeat: no-repeat;
+    background-size:200%;
     transition: all ease-in-out 600ms;
 }
+
+#cursor-trail{
+    position: absolute;
+    width:100%;
+    height:100%;
+}
+
+.particle{
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    background-image: url("imgaes/cloud-cursor.webp");
+    background-size: 20px;/* Cloud color */
+    /* border-radius: 50%; */
+    mix-blend-mode:lighten; /* Blending mode for the cloud effect */
+    pointer-events: none;
+    transform: translate(100%,320%); 
+}  
+
 .hidden{
     transition: 0.5s;
     display: none;
     
 }
-.splash-header{
+#splash-header{
     height: 90%;
     color: #ef5b5b;
-    font-family: ;
+    /* font-family: ; */
     font-size: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.splash p{
+    text-align: center;
+}
+
+.overlay{
+   display:inline;
+   opacity:40%;
+
+
 }
