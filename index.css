@@ -1,0 +1,30 @@
+#site-content{
+    float:right;
+    text-align: center;
+
+}
+
+.site-links{
+    background-image: url(https://i.gifer.com/VJ1.gif);
+    position:fixed;
+    float:left;
+    background-image:linear-gradient(yellow,green);
+    width:200px;
+    height:100%;
+    top:0px;
+    color: red;
+    text-align: center; 
+}
+
+.site-links ul{
+    padding:10px
+
+}
+
+.site-links ul li{
+    font-size:13px;
+    margin-bottom:12px;
+    font-weight: bold;
+    display: list-item;
+}
+
