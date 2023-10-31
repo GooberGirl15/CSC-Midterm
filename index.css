@@ -1,6 +1,39 @@
+
+#main{
+    overflow: hidden;
+}
 #site-content{
-    float:right;
+    /* position: fixed; */
+    bottom: 0px;
+    width: 100%;
+    display:grid;
+    /* justify-content: space-between; */
+    /* float:right; */
     text-align: center;
+    margin-left:180px;
+    overflow:hidden;
+
+}
+
+.reviews{
+    background-color: antiquewhite;
+    padding:100px;
+    vertical-align: top;
+    display: inline-block;
+
+
+}
+.reviews img{
+    width:300px;
+    height:200px;
+    margin:10px;
+
+
+}
+
+#one{
+
+
 
 }
 
