@@ -15,7 +15,7 @@
     left:0px;
     color: red;
     text-align: center; 
-    overflow-y: scroll;
+    /* overflow-y: scroll; */
 }
 
 .site-links ul{
@@ -27,7 +27,7 @@
 .site-links ul li{
     font-family: 'Times New Roman', Times, serif;
     font-size:15px;
-    margin-bottom:12px;
+    margin-bottom:45px;
     font-weight: bold;
     display: list-item;
 }
