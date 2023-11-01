@@ -19,6 +19,12 @@ body{
 
 }
 
+#site-content-header{
+    color: red;
+}
+
+
+
 .banner{
     color:red;
     text-decoration: red wavy underline;
@@ -36,6 +42,24 @@ body{
     position: absolute;
     top:190px;
     left:280px;
+    width: 350px;
+    height:250px
+
+}
+
+#tv-2{
+    position: absolute;
+    top:190px;
+    left:800px;
+    width: 350px;
+    height:250px
+
+}
+
+#tv-3{
+    position: absolute;
+    top:190px;
+    left:1300px;
     width: 350px;
     height:250px
 
