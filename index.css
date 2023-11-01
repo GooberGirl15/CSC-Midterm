@@ -1,17 +1,19 @@
 
-#main{
-    overflow: hidden;
+body{
+    overflow-x: hidden;
+    /* overflow-y: scroll;
+    height:100vh; */
 }
 #site-content{
     /* position: fixed; */
-    bottom: 0px;
+    /* bottom: 0px; */
     width: 100%;
     display:grid;
     /* justify-content: space-between; */
     /* float:right; */
     text-align: center;
-    margin-left:180px;
-    overflow:hidden;
+    margin-left:125px;
+    /* overflow:hidden; */
 
 }
 
@@ -23,6 +25,14 @@
 
 
 }
+#tv-1{
+    position: absolute;
+    top:190px;
+    left:280px;
+    width: 350px;
+    height:250px
+
+}
 .reviews img{
     width:300px;
     height:200px;
@@ -31,11 +41,29 @@
 
 }
 
-#one{
-
-
+.page-links img{
+    height:100px;
+    width:200px;
 
 }
+
+.page-links a{
+    margin: 5px;
+}
+
+#more-left{
+    margin-left: 200px;;
+    float:left;
+    width: 450px;
+    height:300px;
+}
+
+#more-right{
+    margin-right:200px;
+    float:right;
+    width:450px;
+}
+
 
 .site-links{
     background-image: url(https://i.gifer.com/VJ1.gif);
@@ -71,4 +99,6 @@
     margin-left:auto;
     margin-right: auto;
 }
+
+
 
