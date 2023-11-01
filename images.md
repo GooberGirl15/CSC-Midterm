@@ -46,3 +46,5 @@ https://www.simpleimageresizer.com/_uploads/photos/a780b53e/image-removebg-previ
 ![Alt text](image.png)
 
 ![Alt text](image.png)
+
+![Alt text](Navbar/plane_banner.gif)
