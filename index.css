@@ -1,7 +1,7 @@
 
 body{
-    background-image: linear-gradient(#002252,#00375e,#005479, #0f98b8,#a9dfc7,#d5df88,#efdf66,
-    #f7cd61, #ffbc6b, #f3954d, #f37f70,#d96c81    );
+    background-image:  url("imgaes/clouds.gif"), linear-gradient(#002252,#00375e,#005479, #0f98b8,#a9dfc7,#d5df88,#efdf66,
+    #f7cd61, #ffbc6b, #f3954d, #f37f70,#d96c81);
     overflow-x: hidden;
     /* overflow-y: scroll;
     height:100vh; */
